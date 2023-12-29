@@ -14,4 +14,4 @@ _I want to use data analytics tools to support, improve and facilitate the workf
 
 - 🌊 Currently based in Paris 🇫🇷 , but feeling more Mediterranean than anything else 
   
-- 📝 Check out my [academic website](https://www.hugzsoubrier.com/) for my CV, publications and some work I have done or drop me an email: hugo.soubrier@epicentre.msf 
+- 📝 Check out my [academic website](https://www.hugzsoubrier.com/) for some of my work or drop me an email: hugo.soubrier@epicentre.msf 
