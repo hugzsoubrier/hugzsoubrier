@@ -12,6 +12,6 @@ _I want to use data analytics tools to support, improve and facilitate the workf
 
 - 💻 _R_ user - I'm part of the Instructor pool of [Applied Epi NGO](https://appliedepi.org/)
 
-- 🌊 Currently based in Paris 🇫🇷 , but feeling more Mediterranean than anything else 
+- 🌊 I am a strong mediterraneanist but currently based in Paris 🇫🇷
   
 - 📝 Check out my [academic website](https://www.hugzsoubrier.com/) for some of my work or drop me an email: hugo.soubrier@epicentre.msf 
