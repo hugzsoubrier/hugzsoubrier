@@ -4,7 +4,7 @@ I'm Hugo, a statistician/Epidemiologist working at [Epicentre](https://epicentre
 
 _I want to use data analytics tools to support, improve and facilitate the workflow of epidemiology on the field especially in the context of Humanitarian emergencies and Response to Outbreaks._
 
-- 🔬 I'm initially trained in Microbiology (BSc, Imperial College London) and Epidemiology & Control of Infectious Diseases (MSc, LSHTM)
+- 🔬 I'm initially trained in Microbiology (BSc, Imperial College London) and Control of Infectious Diseases (MSc, LSHTM)
   
 - 🦇 I have a strong interest for Viral Hemorrhagic fevers and Field Epidemiology
   
