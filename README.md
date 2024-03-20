@@ -2,13 +2,13 @@
 
 I'm Hugo, a statistician/Epidemiologist working at [Epicentre](https://epicentre.msf.org/) Médecins Sans Frontières (MSF)
 
-_I want to use data analytics tools to support, improve and facilitate the workflow of epidemiology on the field especially in the context of Humanitarian emergencies and Response to Outbreaks._
+_Interested in Infectious Disease Epidemiology in the context of Humanitarian emergencies and response to outbreaks_
 
-- 🔬 I'm initially trained in Microbiology (BSc, Imperial College London) and Control of Infectious Diseases (MSc, LSHTM)
+- 🔬 I'm trained in Microbiology (BSc, Imperial College London) and Control of Infectious Diseases (MSc, LSHTM)
   
 - 🦇 I have a strong interest for Viral Hemorrhagic fevers and Field Epidemiology
   
-- 🌱 I'm currently learning about Applied Bayesian modelling
+- 🌱 I'm currently navigating the storm of Applied Bayesian statistics
 
 - 💻 _R_ user - I'm part of the Instructor pool of [Applied Epi NGO](https://appliedepi.org/)
 
