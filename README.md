@@ -6,7 +6,7 @@ _Interested in Infectious Disease Epidemiology and Modelling in the context of H
 
 - 🔬 I'm trained in Microbiology (BSc, Imperial College London) and Control of Infectious Diseases (MSc, London school of Hygiene and Tropical Medicine)
 
-- 🎓  Currently pursuing a Phd in **Mathematical modelling for of vaccination strategies in context of humanitarian emergencies** under the supervision of Prof. Stefan Flasche (Charité/LSHTM), Anton Camacho, PhD (Epicentre/MSF), Olivier Le Pollain, PhD (WHO).
+- 🎓  Currently pursuing a Phd in **Mathematical modelling for of vaccination strategies in context of humanitarian emergencies** under the supervision of Prof. Stefan Flasche (Charité/LSHTM), Anton Camacho, PhD (Epicentre/MSF) and Olivier Le Pollain, PhD (WHO).
   
 - 🦇 I have a strong interest for Viral Hemorrhagic fevers and Field Epidemiology
   
