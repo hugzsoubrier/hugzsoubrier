@@ -10,8 +10,6 @@ _Interested in Infectious Disease Epidemiology and Modelling in the context of H
   
 - 🦇 I have a strong interest for Viral Hemorrhagic fevers and Field Epidemiology
   
-- 🌱 I'm currently navigating the storm of Applied Bayesian statistics
-
 - 💻 _R_ user - I'm part of the Instructor pool of [Applied Epi NGO](https://appliedepi.org/)
 
 - 🌊 I am a strong mediterraneanist but currently based between Paris 🇫🇷 and Berlin 🇩🇪
