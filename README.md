@@ -12,6 +12,6 @@ _Interested in Infectious Disease Epidemiology and Modelling in the context of H
   
 - 💻 _R_ user - I'm part of the Instructor pool of [Applied Epi NGO](https://appliedepi.org/)
 
-- 🌊 I am a strong mediterraneanist but currently based between Paris 🇫🇷 and Berlin 🇩🇪
+- 🌊 Mediterraneanist currently based between Paris 🇫🇷 and Berlin 🇩🇪
   
 - 📝 Check out my [academic website](https://www.hugzsoubrier.com/) for some of my work or drop me an email: hugo.soubrier@epicentre.msf.org
