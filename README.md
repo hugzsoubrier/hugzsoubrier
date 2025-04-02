@@ -8,7 +8,7 @@ _Interested in Infectious Disease Epidemiology and Modelling in the context of H
 
 - 🎓  Currently pursuing a Phd in **Mathematical modelling of vaccination strategies in humanitarian context of emergencies** under the supervision of Prof. Stefan Flasche (Charité/LSHTM), Anton Camacho, PhD (Epicentre/MSF) and Olivier Le Pollain, PhD (WHO).
   
-- 🦇 I have a strong interest for Viral Hemorrhagic fevers and Field Epidemiology
+- 🦇 I have a strong interest for Viral Hemorrhagic fevers and Field Epidemiology in humanitarian context
   
 - 💻 _R_ user - I'm part of the Instructor pool of [Applied Epi NGO](https://appliedepi.org/)
 
